@@ -1,0 +1,5 @@
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\PiensaBinario\bin\Debug\PiensaBinario.dll
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\PiensaBinario\bin\Debug\PiensaBinario.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\PiensaBinario\obj\Debug\PiensaBinario.dll
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\PiensaBinario\obj\Debug\PiensaBinario.pdb
+C:\Users\Administrador\documents\visual studio 2012\Projects\PiensaBinario\PiensaBinario\obj\Debug\PiensaBinario.csprojResolveAssemblyReference.cache

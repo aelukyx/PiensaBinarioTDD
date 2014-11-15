@@ -1,0 +1,9 @@
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\TesteaBinario\bin\Debug\TesteaBinario.dll
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\TesteaBinario\bin\Debug\TesteaBinario.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\TesteaBinario\bin\Debug\nunit.framework.dll
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\TesteaBinario\bin\Debug\PiensaBinario.dll
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\TesteaBinario\bin\Debug\PiensaBinario.pdb
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\TesteaBinario\bin\Debug\nunit.framework.xml
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\TesteaBinario\obj\Debug\TesteaBinario.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\TesteaBinario\obj\Debug\TesteaBinario.dll
+c:\users\administrador\documents\visual studio 2012\Projects\PiensaBinario\TesteaBinario\obj\Debug\TesteaBinario.pdb
